@@ -1,0 +1,1 @@
+# AJAX-get-and-post-method
